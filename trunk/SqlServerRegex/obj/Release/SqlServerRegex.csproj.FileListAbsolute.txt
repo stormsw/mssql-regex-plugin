@@ -1,3 +1,0 @@
-d:\test\SqlServerRegex\SqlServerRegex\bin\Release\SqlServerRegex.dll
-d:\test\SqlServerRegex\SqlServerRegex\obj\Release\ResolveAssemblyReference.cache
-d:\test\SqlServerRegex\SqlServerRegex\obj\Release\SqlServerRegex.dll
