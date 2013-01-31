@@ -1,5 +1,0 @@
-d:\test\SqlServerRegex\SqlServerRegex\bin\Debug\SqlServerRegex.dll
-d:\test\SqlServerRegex\SqlServerRegex\bin\Debug\SqlServerRegex.pdb
-d:\test\SqlServerRegex\SqlServerRegex\obj\Debug\ResolveAssemblyReference.cache
-d:\test\SqlServerRegex\SqlServerRegex\obj\Debug\SqlServerRegex.dll
-d:\test\SqlServerRegex\SqlServerRegex\obj\Debug\SqlServerRegex.pdb
